@@ -7,5 +7,3 @@ This is a simple readme file
 adding a line
 
 another line, on updates branch
-
-this is bound to cause conflicts
